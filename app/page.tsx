@@ -1,7 +1,9 @@
+import HomePage from "@/pages/home/home-page";
+
 export default function Home() {
   return (
     <div>
-      Home Page
+      <HomePage />
     </div>
   );
 }
